@@ -1,8 +1,14 @@
 [
   {
+    "full_name": "formancehq/ledger",
+    "stargazers_count": 463,
+    "open_issues_count": 13,
+    "forks_count": 66
+  },
+  {
     "full_name": "mindsdb/mindsdb",
-    "stargazers_count": 10163,
-    "open_issues_count": 192,
-    "forks_count": 1088
+    "stargazers_count": 10226,
+    "open_issues_count": 197,
+    "forks_count": 1098
   }
 ]
