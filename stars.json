@@ -1,14 +1,20 @@
 [
   {
+    "full_name": "mage-ai/mage-ai",
+    "stargazers_count": 1667,
+    "open_issues_count": 16,
+    "forks_count": 162
+  },
+  {
     "full_name": "formancehq/ledger",
-    "stargazers_count": 477,
-    "open_issues_count": 15,
+    "stargazers_count": 484,
+    "open_issues_count": 17,
     "forks_count": 68
   },
   {
     "full_name": "mindsdb/mindsdb",
-    "stargazers_count": 10682,
-    "open_issues_count": 286,
-    "forks_count": 1220
+    "stargazers_count": 10787,
+    "open_issues_count": 323,
+    "forks_count": 1243
   }
 ]
