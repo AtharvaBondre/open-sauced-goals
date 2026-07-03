@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "pariyar07/ariadne",
+    "stargazers_count": 15,
+    "open_issues_count": 5,
+    "forks_count": 2
+  },
+  {
+    "full_name": "pariyar07/kybernetes",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "Scoutflo/hacktoberfest2023",
     "stargazers_count": 5,
     "open_issues_count": 0,
@@ -7,20 +19,20 @@
   },
   {
     "full_name": "mage-ai/mage-ai",
-    "stargazers_count": 8762,
+    "stargazers_count": 8764,
     "open_issues_count": 615,
     "forks_count": 974
   },
   {
     "full_name": "formancehq/ledger",
-    "stargazers_count": 1281,
-    "open_issues_count": 32,
+    "stargazers_count": 1286,
+    "open_issues_count": 35,
     "forks_count": 169
   },
   {
     "full_name": "mindsdb/minds",
-    "stargazers_count": 39358,
+    "stargazers_count": 39372,
     "open_issues_count": 2,
-    "forks_count": 6211
+    "forks_count": 6213
   }
 ]
